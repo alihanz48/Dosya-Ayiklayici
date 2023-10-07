@@ -1,0 +1,10 @@
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\bin\Debug\Dosya Ayıklayıcı.exe.config
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\bin\Debug\Dosya Ayıklayıcı.exe
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\bin\Debug\Dosya Ayıklayıcı.pdb
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.AssemblyReference.cache
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya_Ayıklayıcı.Form1.resources
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya_Ayıklayıcı.Properties.Resources.resources
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.GenerateResource.cache
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.CoreCompileInputs.cache
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.exe
+C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.pdb
