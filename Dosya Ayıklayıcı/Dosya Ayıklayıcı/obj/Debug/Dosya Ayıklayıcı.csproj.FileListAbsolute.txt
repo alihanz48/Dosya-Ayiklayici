@@ -8,3 +8,13 @@ C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug
 C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.CoreCompileInputs.cache
 C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.exe
 C:\Users\Alihan Dursun\Desktop\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.pdb
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\bin\Debug\Dosya Ayıklayıcı.exe.config
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\bin\Debug\Dosya Ayıklayıcı.exe
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\bin\Debug\Dosya Ayıklayıcı.pdb
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.AssemblyReference.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya_Ayıklayıcı.Form1.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya_Ayıklayıcı.Properties.Resources.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.GenerateResource.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.csproj.CoreCompileInputs.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.exe
+C:\Users\AlihanDursun\Desktop\Yeni klasör\6\Dosya-Ayiklayici\Dosya Ayıklayıcı\Dosya Ayıklayıcı\obj\Debug\Dosya Ayıklayıcı.pdb
